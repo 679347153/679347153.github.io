@@ -84,6 +84,34 @@
   }
 }
 
+// 定义变量
+$carousel-max-height: 350px;
+$button-bg: rgba(0, 0, 0, 0.5);
+$button-radius: 50%;
+
+// 限制轮播图最大高度
+.carousel-inner {
+    display: flex;
+    align-items: center;
+    min-height: $carousel-max-height;
+}
+
+.carousel-item img {
+    max-height: $carousel-max-height;
+    width: auto;
+    margin: auto;
+}
+
+// 修改按钮颜色
+.carousel-control {
+    &-prev-icon,
+    &-next-icon {
+        background-color: $button-bg;
+        border-radius: $button-radius;
+        padding: 10px;
+    }
+}
+
 
 /*
    List view
