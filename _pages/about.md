@@ -13,7 +13,7 @@ redirect_from:
 </style> -->
 
 
- 🚀🎯🔥😀Hi, my name is **Wei Zhang** (Zean)😀🔥🎯🚀, a junior undergraduate student at **Shandong University**, currently a RA of the **Active & Intelligent Robotics Group (AIRG)** under the supervision of **Prof. Chaoqun Wang**.   
+ 🚀🎯🔥😀Hi, my name is **Wei Zhang** (Zean)😀🔥🎯🚀, a senior undergraduate student at **Shandong University**, currently a RA of the **Active & Intelligent Robotics Group (AIRG)** under the supervision of **Prof. Chaoqun Wang**.   
 
  <!-- I am a fourth-year Ph.D student at [National University of Singapore(NUS)](https://www.nus.edu.sg/), affiliated with the [xML Lab](https://sites.google.com/view/xml-nus/alumni). I am working under the supervision of [Prof.Xinchao Wang](https://www.eng.nus.edu.sg/ece/staff/wang-xinchao/).  -->
 
