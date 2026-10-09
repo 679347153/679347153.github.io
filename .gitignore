@@ -1,15 +1,35 @@
-# Ignore the contents of the _site directory and other cache directories
+# Jekyll output and caches
 _site/
 .sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 
-# Ignore the directory for local files during development
+# Local development files and dependency installs
 local/
 vendor/
+.bundle/
+.vscode/
 
-# Ignore the Gemfile that is generated
+# Local Ruby environment files
 Gemfile.lock
+.ruby-version
+.ruby-gemset
+*.gem
 
-# Ingore files created by npm
-node_modules
+# Node dependencies and logs
+node_modules/
 package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Test, coverage, and temporary files
+coverage/
+tmp/
+log/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+*.swp
 
